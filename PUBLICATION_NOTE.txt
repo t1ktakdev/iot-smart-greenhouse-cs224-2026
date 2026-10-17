@@ -1,0 +1,1 @@
+This is a simulated educational IoT dashboard. No physical sensors, no real user accounts, no backend, no secrets. Code was validated with Selenium and Chrome 155 on Windows using local HTTP.
